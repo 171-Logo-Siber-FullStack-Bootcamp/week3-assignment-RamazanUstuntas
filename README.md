@@ -60,9 +60,12 @@
    <td><a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
    <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="75" height="75">
    </a>
-   <td><a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+   <td><a href="https://axios-http.com/docs/intro" target="_blank" rel="noreferrer">
    <img src="https://user-images.githubusercontent.com/8939680/57233884-20344080-6fe5-11e9-8df3-0df1282e1574.png" width="175" height="75">
-   </a> 
+   </a>
+   <td><a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1280px-Firebase_Logo.svg.png" width="175" height="75">
+   </a>  
    </tr>
    </table>
 </div>
